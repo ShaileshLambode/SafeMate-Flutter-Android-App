@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906517241771",
+    "project_id": "safemate-3dada",
+    "storage_bucket": "safemate-3dada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906517241771:android:084840bed8bd2be33afcee",
+        "android_client_info": {
+          "package_name": "com.example.safe_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyawZDok9OIhWUPxPdQhJGYB44SpbWC2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
