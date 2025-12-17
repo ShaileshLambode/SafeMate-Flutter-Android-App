@@ -6,12 +6,13 @@
 
 ## 📹 Demo
 
-Watch how the application works:
+### ▶️ Practical Demo Video
 
-**Practical Demo Video:**
-👉 `video.mp4` (available in this repository)
+You can watch the working demo of **SafeMate** directly below:
 
-This demo shows the app UI and main features in real usage.
+<video src="video.mp4" controls width="100%"></video>
+
+> If the video does not play in your browser, download and open **video.mp4** directly from the repository.
 
 ---
 
@@ -116,16 +117,14 @@ build/app/outputs/flutter-apk/
 
 ## 📂 Practical Demonstration
 
-The working demo of the SafeMate application is included as:
+The demo video (**video.mp4**) demonstrates:
 
-📽 **video.mp4**
+* App navigation flow
+* Emergency / safety trigger
+* UI interactions
+* Core application features
 
-This video demonstrates:
-
-* App navigation
-* Safety alert flow
-* UI interaction
-* Core functionalities
+The video is embedded above for easy preview and is also available for download in the repository.
 
 ---
 
